@@ -15,5 +15,5 @@ Always excited to learn new technologies and collaborate on meaningful work!
 ---
 
 ## 📬 How to reach me:
-- 📧 Email: [mariamtarek71144@gmail.com](mailto:mariamtarek71144@gmail.com)
+- 📧 Email: [mariamtarek7144@gmail.com](mailto:mariamtarek71144@gmail.com)
 - 🔗 LinkedIn: [linkedin.com/in/mariamtarek7115](https://linkedin.com/in/mariamtarek7115)
