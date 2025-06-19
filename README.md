@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm Mariam Tarek
 
-<!--
-**mariamtarek7115/mariamtarek7115** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm interested in **Full Stack Development**, **Database Systems**, and **AI/ML Projects**.  
+Always excited to learn new technologies and collaborate on meaningful work!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🙋‍♀️ Need a hand with:
+- Building full-stack applications
+- Designing relational databases
+- Working on machine learning models
+- Debugging code or brainstorming features
+- Learning UI/UX design
+
+---
+
+## 📬 How to reach me:
+- 📧 Email: [mariamtarek71144@gmail.com](mailto:mariamtarek71144@gmail.com)
+- 🔗 LinkedIn: [linkedin.com/in/mariamtarek7115](https://linkedin.com/in/mariamtarek7115)
